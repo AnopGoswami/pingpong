@@ -2,12 +2,10 @@ package main
 
 import "fmt"
 
-func main()
-{
+func main() {
 	ping()
 }
 
-func pong()
-{
+func ping() {
 	fmt.Println("pong")
 }
